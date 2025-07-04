@@ -1,8 +1,9 @@
 div{
     background-color: palevioletred;
     margin: 20px;
-    
+    padding: 20px;
 }
 p{
     background-color: crimson;
+    padding: 20px;
 }
