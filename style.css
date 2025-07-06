@@ -7,3 +7,7 @@ p{
     background-color: crimson;
     padding: 20px;
 }
+div img{
+    height:220px;
+    width: 200px;
+}
